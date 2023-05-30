@@ -24,4 +24,5 @@ htmlcov/
 .coverage
 .coverage.*
 *,cover
-DockerEg/Dockerfile
+/DockerEg
+/FlaskPandaAPICall
